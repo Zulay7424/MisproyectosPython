@@ -1,3 +1,4 @@
+""" Este módulo contiene funciones matemáticas básicas para realizar pruebas de lógica en Python. """
 def calcular_cuadrados(lista):
     """Calcula el cuadrado de cada número en una lista.
 
